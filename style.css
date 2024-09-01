@@ -1,0 +1,50 @@
+.modal-container{
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 100;
+    background: linear-gradient(#00000041,#0000004d)
+}
+
+.modal{
+    width: 50%;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: beige;
+    border: solid 2px;
+    padding: 20px;
+    position: relative;
+    box-shadow: 1px 2px 40px;
+}
+
+.modal button{
+    font-size: 14px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    position:absolute;
+    right: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
